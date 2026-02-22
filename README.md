@@ -21,6 +21,13 @@ Instead of stopping at model performance, I translated predicted approval probab
 ## Key Business Questions
 
 - Which loan applications should be approved to maximize portfolio profit?
-- How do approval thresholds impact revenue, risk, and volume?
+- How do approval thresholds impact revenue, risk, and loan volume?
 - Which customer segments consistently generate or destroy value?
+- How sensitive is the portfolio to changes in interest rates or default probabilities?
+
+## Feature Importance
+
+importances = pd.Series(model.feature_importances_, index=X.columns).sort_values(ascending=False)
+importances.plot(kind='bar', figsize=(8,5), title='Random Forest Feature Importance')
+plt.show()
 

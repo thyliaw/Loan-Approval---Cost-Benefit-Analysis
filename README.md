@@ -18,3 +18,9 @@ Instead of stopping at model performance, I translated predicted approval probab
 
 - **Target variable:** loan_approved (1 = approved, 0 = denied)
 
+## Key Business Questions
+
+- Which loan applications should be approved to maximize portfolio profit?
+- How do approval thresholds impact revenue, risk, and volume?
+- Which customer segments consistently generate or destroy value?
+

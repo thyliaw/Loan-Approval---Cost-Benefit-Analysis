@@ -102,6 +102,20 @@ Instead of stopping at model performance, I translated predicted approval probab
 | 11% | -$2,469,895 |
 | 13% | -$1,924,998 |
 
+## Repository Structure
+
+msba-portfolio-thylia/
+│
+├── data/                  # Raw dataset
+│   └── loan_approval.csv
+├── notebooks/             # Jupyter notebooks
+│   └── loan_analysis.ipynb
+├── visuals/               # Plots and figures
+├── insights/              # Executive summaries, assumptions, recommendations
+│   ├── executive_summary.md
+│   └── assumptions_limitations.md
+└── README.md
+
 ## Key Takeaways
 
 - Model accuracy alone does not drive business value; translating predictions into financial outcomes is critical.  

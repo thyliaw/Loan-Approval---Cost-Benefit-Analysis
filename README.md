@@ -60,27 +60,27 @@ Predicted approval probabilities were translated into expected revenue, expected
 
 1. **Portfolio Performance**
 
-- Total Profit (baseline): -$3,014,792
+  - Total Profit (baseline): -$3,014,792
 
-- Return on Capital: -11.1%
+  - Return on Capital: -11.1%
 
 2. **Approval Threshold Optimization**
 
-- Optimal approval threshold: 0.85
+  - Optimal approval threshold: 0.85
 
-- Portfolio profit at this threshold: $830,783
+  - Portfolio profit at this threshold: $830,783
 
 3. **Customer Segmentation Insights**
 
-- Four clusters identified using income, loan amount, credit score, and loan-to-income ratio.
+  - Four clusters identified using income, loan amount, credit score, and loan-to-income ratio.
 
-- Segment 0 is profitable; Segments 1, 2, and 3 consistently generate losses.
+  - Segment 0 is profitable; Segments 1, 2, and 3 consistently generate losses.
 
 4. **Scenario Analysis**
 
-- Interest Rate Sensitivity: Higher rates improve portfolio profit (13% → $1,924,998 loss).
+  - Interest Rate Sensitivity: Higher rates improve portfolio profit (13% → $1,924,998 loss).
 
-- Risk Shock Sensitivity: +3% PD → $3,546,067 loss; +6% PD → $4,077,342 loss.
+  - Risk Shock Sensitivity: +3% PD → $3,546,067 loss; +6% PD → $4,077,342 loss.
 
 ## Visual Insights
 

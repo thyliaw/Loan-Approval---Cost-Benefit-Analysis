@@ -6,11 +6,11 @@
 
 **This project treats machine learning predictions as financial decisions.**
 
-Using a public loan approval dataset sourced from Kaggle, I built an end-to-end analytics workflow that connects predictive modeling to cost–benefit analysis, approval optimization, and portfolio strategy.
+Using a public loan approval dataset sourced from Kaggle, I built an end-to-end analytics workflow that connects predictive modeling with cost–benefit analysis, approval optimization, and portfolio strategy.
 
-The original dataset contains financial and demographic information for 1,000 loan applicants, including features such as annual income, credit score, loan amount, number of dependents, and employment status. While the dataset is commonly used for binary classification (loan approved vs. denied), this project extends its use beyond prediction accuracy to evaluate profitability, risk trade-offs, and real-world approval decisions.
+The dataset contains financial and demographic information for 1,000 loan applicants, including annual income, credit score, loan amount, number of dependents, and employment status. While commonly used for binary classification (loan approved vs. denied), this project extends beyond prediction accuracy to evaluate profitability, risk trade-offs, and decision-level business impact.
 
-Instead of stopping at model performance, I translated predicted approval probabilities into expected revenue, expected loss, and operating costs to determine which loans the business should approve, under what conditions, and why.
+Predicted approval probabilities were translated into expected revenue, expected loss, and operating costs to determine which loans should be approved, under what conditions, and why.
 
 ## Data Source
 

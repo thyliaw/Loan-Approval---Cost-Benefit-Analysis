@@ -10,11 +10,11 @@ Instead of stopping at model performance, I translated predicted approval probab
 
 ## Data Source
 
--**Dataset:** Loan Approval Dataset
+- **Dataset:** Loan Approval Dataset
 
--**Source:** Kaggle (https://www.kaggle.com/datasets/amineipad/loan-approval-dataset
+- **Source:** Kaggle (https://www.kaggle.com/datasets/amineipad/loan-approval-dataset
 
--**Description:** Synthetic dataset designed for educational use in credit risk assessment and loan approval modeling
+- **Description:** Synthetic dataset designed for educational use in credit risk assessment and loan approval modeling
 
--**Target variable:** loan_approved (1 = approved, 0 = denied)
+- **Target variable:** loan_approved (1 = approved, 0 = denied)
 
